@@ -18,7 +18,7 @@ The required portion of the project is the foreign exchange rates.
 
 ### The COVID Tracking Project
 
- - API endpoint for a single state (Illinois): [https://covidtracking.com/api/v1/states/ca/current.json](https://covidtracking.com/api/v1/states/ca/current.json)
+ - API endpoint for a single state (Illinois): [https://api.covidtracking.com/v1/states/ca/current.json](https://api.covidtracking.com/v1/states/ca/current.json)
  - [Full documentation](https://covidtracking.com/data/api)
  
 ## Setup
